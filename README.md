@@ -32,7 +32,7 @@ Install termux on playstore
 Open termux  
 In terminal type it `termux-wake-lock`
 
-#### What termux-wake-lock do - developer section
+#### What termux-wake-lock do | developer section
 ```
 #!/bin/sh
 
