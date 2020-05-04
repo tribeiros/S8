@@ -1,7 +1,7 @@
 # S8 restart itself on doze and standby
 This issue is caused by a malfunction on android Power management on samsung S8  
 
-First some of links about how it works, and last, how to resolve this issue  
+First some links how about it works, and last, how to resolve this issue  
 
 
 ### Power Management
