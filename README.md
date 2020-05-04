@@ -26,7 +26,7 @@ To **Resolve** this issue is necessary an application with enable wakelock funct
 Because the issue occurred when S8 is on `doze` mode and enter in a `maintenance window`
 
 ### How to
-I used termux application on this tutorial, because termux have easy access to this feature
+I used termux application on this tutorial, because termux have easy access to this feature for non dev IT dudes  
 
 Install termux on playstore  
 Open termux  
