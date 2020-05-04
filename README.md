@@ -22,7 +22,7 @@ This link explain adb shell dumpsys
 https://developer.android.com/studio/command-line/dumpsys
 
 ## Resolve Issue
-**Resolve** this issueis necessary an application enable wakelock function for you S8 dont enter in doze mode  
+To **Resolve** this issue is necessary an application with enable wakelock function for you S8 dont enter in doze mode  
 Because the issue occurred when S8 is on `doze` mode and enter in a `maintenance window`
 
 ### How to
