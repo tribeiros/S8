@@ -32,6 +32,23 @@ Install termux on playstore
 Open termux  
 In terminal type it `termux-wake-lock`
 
+#### What termux-wake-lock do - developer section
+```
+#!/bin/sh
+
+if [ $# != 0 ]; then
+	echo 'usage: termux-wake-lock'
+	echo 'Acquire the Termux wake lock to prevent the CPU from sleeping.'
+	exit 1
+fi
+
+am startservice \
+	--user 0 \wa
+	-a com.termux.service_wake_lock \
+	com.termux/com.termux.app.TermuxService \
+	> /dev/null
+```
+
 After this, your S8 will scape `doze mode` when the display off and lock, and dont restart itself anymore  This is necessary every time your phone reboot or shutdown, unless you have root privilegies, termux-boot or adb shell  
 There are other ways with `adb shell` like this   https://www.xda-developers.com/stop-wakelocks-android-without-root/
 
