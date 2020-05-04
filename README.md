@@ -5,19 +5,20 @@ First some of links about how it works, and last, how to resolve this issue
 
 
 ### Power Management
-This link explain how to android management the power
+This link explain how to android management the power  
 https://developer.android.com/about/versions/pie/power
 
 ### Doze & standby
-This link explain how to android work on doze and standby, its here on S8 restart itself
+This link explain how to android work on doze and standby, its here on S8 restart itself  
 https://developer.android.com/training/monitoring-device-state/doze-standby
 
 
 ### WakeLock
-This link explain how wakelock works
+This link explain how wakelock works  
 https://developer.android.com/reference/android/os/PowerManager.WakeLock
 
 ### Wakelock adb shell
+This link explain adb shell dumpsys  
 https://developer.android.com/studio/command-line/dumpsys
 
 ## Resolve Issue
