@@ -1,6 +1,6 @@
 # Developers
 
-When i try resolve this issue, i wanna no when my s8 restart, so i code a widget with uebersicht, the widget call a shell script, the shell request a api coded on nodejs running on S8
+When i try resolve this issue, i wanna know when my s8 restart, so i code a widget with uebersicht, the widget call a shell script, the shell request a api coded on nodejs running on S8
 
 ## widget | uptime.coffee
 ```
