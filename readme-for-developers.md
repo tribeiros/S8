@@ -40,7 +40,7 @@ msg=`echo "S8 $timedigit $battery%"`
 echo $msg
 ```
 
-## nodejs api | s8api
+## nodejs | s8api
 ```
 const { exec } = require("child_process");
 var express = require('express');
