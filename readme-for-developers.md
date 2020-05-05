@@ -28,7 +28,7 @@ style: """
 """
 ```
 
-## shell scropt | s8up
+## shell script | s8up
 ```
 #!/bin/bash
 stdout=`curl --silent http://192.168.0.6:3000`
