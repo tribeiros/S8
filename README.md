@@ -49,7 +49,7 @@ am startservice \
 	> /dev/null
 ```
 
-After this, your S8 will scape `doze mode` when the display turn off and lock, and dont restart itself anymore  
+After this, your S8 will scape `doze mode` when the display turn off and lock, and dont will restart itself anymore  
 This is necessary every time your phone reboot or shutdown, unless you have root privilegies, termux-boot or adb shell  
 There are other ways with `adb shell` like this  https://www.xda-developers.com/stop-wakelocks-android-without-root/
 
