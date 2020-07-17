@@ -56,3 +56,6 @@ There are other ways with `adb shell` like this  https://www.xda-developers.com/
 
 ## Conclusion
 Waiting for samsung resolve this issue, meanwhile ...
+
+## ...
+[ 07/2020 ] Samsung release another update, but the issue continue  
